@@ -1,0 +1,2 @@
+# png-scope
+Inspect PNGs
